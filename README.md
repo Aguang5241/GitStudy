@@ -83,3 +83,9 @@ git push origin master
 ```
 ### 5. 删除远程仓库在网页直接删
 
+### 6. 删除远程仓库在网页直接删
+```
+git config credential.helper store
+git push
+```
+
